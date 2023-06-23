@@ -9,12 +9,12 @@
 </div>
 
 <h2>Projects ૮ ˶ᵔ ᵕ ᵔ˶ ა</h2>
-❧ Genpolis (A generator based Minecraft plugin for a server).<br />
-❧ Other private projects.<br />
+❥ Genpolis (A generator based Minecraft plugin for a server).<br />
+❥ Other private projects.<br />
 
 <h2>About ૮ ˶• ༝ •˶ ა</h2>
-❧ tatsu, 17 years old.<br />
-❧ Decent with Java, trying out Kotlin occasionally.<br /><br />
+❥ tatsu, 17 years old.<br />
+❥ Decent with Java, trying out Kotlin occasionally.<br /><br />
 
 <h2>Discord (＾・ω・＾)</h2>
 
