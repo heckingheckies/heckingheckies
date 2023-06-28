@@ -16,7 +16,7 @@
 ❥ tatsu, 17 years old.<br />
 ❥ Decent with Java, trying out Kotlin occasionally.<br /><br />
 
-<h2>Discord (＾・ω・＾)</h2>
+<h2>Discord ( =＾ω＾)</h2>
 
 <p align="center"><a href="https://discord.com/users/323071398551486467"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/323071398551486467?bg=0d1117&idleMessage=Stop%20stalking%20me!%20>;3"></a></p>
 
