@@ -10,7 +10,7 @@
 
 <h2>About ૮ ˶• ༝ •˶ ა</h2>
 ❥ tatsu, 18 years old.<br />
-❥ Decent <a href="https://kotlinlang.org"><b>Kotlin</b></a> and <a href="www.java.com"><b>Java</b></a> developer, also learning <a href="https://en.wikipedia.org/wiki/Web_development"><b>Web</b></a> development too.<br />
+❥ Decent <a href="https://kotlinlang.org" target="_blank"><b>Kotlin</b></a> and <a href="www.java.com" target="_blank"><b>Java</b></a> developer, also learning <a href="https://en.wikipedia.org/wiki/Web_development" target="_blank"><b>Web</b></a> development too.<br />
 ❥ If you're reading this, <b>I adore you pup</b> ;3 ♡<br />
 
 <h2>Projects ૮ ˶ᵔ ᵕ ᵔ˶ ა</h2>
