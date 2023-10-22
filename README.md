@@ -1,11 +1,9 @@
 <div align = "center">
-<img src = "stalker.gif"/></div><br />
+<img src = "peko.gif"></div><br />
 
 <p align = "center">
  <img src = "https://komarev.com/ghpvc/?username=tatsuwuki-X7&style=for-the-badge&logo=Streamlit&color=ffdcf7&logo=Bookmeter">
 </p>
-
-</div>
 
 <h2 align = "center">About ૮ ˶• ༝ •˶ ა</h2>
 ❥ tatsu, 18 years old.<br />
@@ -29,4 +27,6 @@
 <p align = center>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=tatsuwuki&theme=rose-pine&hide_border=true">
 </p>
+<div align = "center">
+<img src = "stalker.gif"></div>
 <p align = "center"><b>UwU</b></p>
