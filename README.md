@@ -8,7 +8,6 @@
 <h2 align = "center">About ૮ ˶• ༝ •˶ ა</h2>
 ❥ tatsu, 18 years old.<br />
 ❥ Decent <a href = "https://kotlinlang.org" target = "_blank"><b>Kotlin</b></a> and <a href = "https://www.java.com" target = "_blank"><b>Java</b></a> developer, also learning <a href = "https://en.wikipedia.org/wiki/Web_development" target = "_blank"><b>Web</b></a> development too.<br />
-❥ I love toast ♡<br />
 
 <h2 align = "center">Projects ૮ ˶ᵔ ᵕ ᵔ˶ ა</h2>
 ❥ <b>Flag</b> (A W.I.P project for a server).<br />
