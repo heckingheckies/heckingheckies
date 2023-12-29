@@ -1,7 +1,7 @@
 <div align="center">
   <p float="left">
-    <img src="uwu.jpg" width="300" align="left">
-    <img src="owo.jpg" width="300" align="right">
+    <img src="uwu.jpg" width="272" align="left">
+    <img src="owo.jpg" width="272" align="right">
   </p>
   <div align="center">
     <samp>
