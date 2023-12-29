@@ -25,8 +25,8 @@
   <img width="170px" src="https://komarev.com/ghpvc/?username=tatsuwuki-X7&style=for-the-badge&logo=Streamlit&color=ffdcf7&logo=Bookmeter"/>
   <br>
   <br>
-  <img src="https://lanyard-profile-readme.vercel.app/api/323071398551486467?bg=0d1117&idleMessage=Stop%20stalking%20me!%20>;3" alt="Discord Presence" align="center" width="300">
+  <img src="https://lanyard-profile-readme.vercel.app/api/323071398551486467?bg=0d1117&idleMessage=Stop%20stalking%20me!%20>;3" alt="Discord Presence" align="center" width="272">
   <br>
-  <img src="peko.gif" width="300" align="center">
+  <img src="peko.gif" width="272" align="center">
   <br>
 </div>
