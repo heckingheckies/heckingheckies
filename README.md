@@ -1,7 +1,7 @@
 <div align="center">
   <p float="left">
-    <img src="uwu.jpg" width="250" align="left">
-    <img src="owo.jpg" width="250" align="right">
+    <img src="uwu.jpg" width="300" align="left">
+    <img src="owo.jpg" width="300" align="right">
   </p>
   <div align="center">
     <samp>
@@ -25,8 +25,8 @@
   <img width="170px" src="https://komarev.com/ghpvc/?username=tatsuwuki-X7&style=for-the-badge&logo=Streamlit&color=ffdcf7&logo=Bookmeter"/>
   <br>
   <br>
-  <img src="https://lanyard-profile-readme.vercel.app/api/323071398551486467?bg=0d1117&idleMessage=Stop%20stalking%20me!%20>;3" alt="Discord Presence" align="center" width="272">
+  <img src="https://lanyard-profile-readme.vercel.app/api/323071398551486467?bg=0d1117&idleMessage=Stop%20stalking%20me!%20>;3" alt="Discord Presence" align="center" width="300">
   <br>
-  <img src="peko.gif" width="272" align="center">
+  <img src="peko.gif" width="300" align="center">
   <br>
 </div>
