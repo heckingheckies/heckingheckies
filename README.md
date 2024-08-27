@@ -14,10 +14,8 @@
       <a href="https://www.sqlite.org/index.html">sqlite</a>
       <br>
       <br>
-      site:
-      <a href="https://tatsuwuki.com">♡</a><br>
       discord:
-      <a href="https://discord.com/users/323071398551486467">tatsuwuki</a><br>
+      <a href="https://discord.com/users/323071398551486467">meowsum</a><br>
       art by <a href="https://twitter.com/flat_fish_">@flat_fish_</a>
     </samp>
   </div>
