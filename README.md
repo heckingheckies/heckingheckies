@@ -14,6 +14,9 @@
       <a href="https://www.sqlite.org/index.html">sqlite</a>
       <br>
       <br>
+      <a href="https://meowsum.art">website ♡</a>
+      <br>
+      <br>
       discord:
       <a href="https://discord.com/users/323071398551486467">meowsum</a><br>
       art by <a href="https://twitter.com/flat_fish_">@flat_fish_</a>
