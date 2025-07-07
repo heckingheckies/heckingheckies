@@ -1,7 +1,7 @@
 <div align="center">
   <p float="left">
-    <img src="uwu.jpg" width="300" align="right">
-    <img src="owo.jpg" width="300" align="left">
+    <img src="uwu.jpg" width="240" align="right">
+    <img src="owo.jpg" width="240" align="left">
   </p>
   <div align="center">
     <samp>
@@ -25,6 +25,6 @@
   <br>
   <img src="https://lanyard-profile-readme.vercel.app/api/323071398551486467?bg=0d1117&idleMessage=Stop%20stalking%20me!%20>;3" alt="Discord Presence" align="center" width="272">
   <br>
-  <img src="peko.gif" width="300" align="center">
+  <img src="peko.gif" width="272" align="center">
   <br>
 </div>
