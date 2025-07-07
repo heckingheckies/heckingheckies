@@ -1,7 +1,7 @@
 <div align="center">
   <p float="left">
-    <img src="uwu.jpg" width="240" align="left">
-    <img src="owo.jpg" width="240" align="right">
+    <img src="uwu.jpg" width="240" align="right">
+    <img src="owo.jpg" width="240" align="left">
   </p>
   <div align="center">
     <samp>
@@ -14,12 +14,9 @@
       <a href="https://www.sqlite.org/index.html">sqlite</a>
       <br>
       <br>
-      <a href="https://meowsum.art">website ♡</a>
-      <br>
-      <br>
       discord:
       <a href="https://discord.com/users/323071398551486467">meowsum</a><br>
-      art by <a href="https://twitter.com/flat_fish_">@flat_fish_</a>
+      art by <a href="https://x.com/ramdayo1122">@ramdayo1122</a>
     </samp>
   </div>
   <br>
