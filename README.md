@@ -15,7 +15,7 @@
       <br>
       <br>
       discord:
-      <a href="https://discord.com/users/323071398551486467">meowsum</a><br>
+      <a href="https://discord.com/users/323071398551486467">heckingheckies</a><br>
       art by <a href="https://x.com/ramdayo1122">@ramdayo1122</a>
     </samp>
   </div>
