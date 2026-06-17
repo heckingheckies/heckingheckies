@@ -1,7 +1,7 @@
 <div align="center">
   <p float="left">
-    <img src="uwu.jpg" width="240" align="right">
-    <img src="owo.jpg" width="240" align="left">
+    <img src="uwu.jpg" width="240" align="left">
+    <img src="owo.png" width="240" align="right">
   </p>
   <div align="center">
     <samp>
@@ -16,11 +16,10 @@
       <br>
       discord:
       <a href="https://discord.com/users/323071398551486467">heckingheckies</a><br>
-      art by <a href="https://x.com/ramdayo1122">@ramdayo1122</a>
     </samp>
   </div>
   <br>
-  <img width="170px" src="https://komarev.com/ghpvc/?username=tatsuwuki-X7&style=for-the-badge&logo=Streamlit&color=b01a02&logo=Bookmeter"/>
+  <img width="170px" src="https://komarev.com/ghpvc/?username=tatsuwuki-X7&style=for-the-badge&logo=Streamlit&color=a480c0&logo=Bookmeter"/>
   <br>
   <br>
   <img src="https://lanyard-profile-readme.vercel.app/api/323071398551486467?bg=0d1117&idleMessage=Stop%20stalking%20me!%20>;3" alt="Discord Presence" align="center" width="272">
